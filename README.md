@@ -38,5 +38,5 @@ The 3-5 slide summary of my portfolio and learning journey can be found here:
 
 ## 📫 Contact Information
 * **GitHub:** [github.com/YusufShahz](https://github.com/YusufShahz)
-* **LinkedIn:** [Your LinkedIn URL Here](https://www.linkedin.com/in/yusuf-shahzad-89aba0284/)
+* **LinkedIn:** [linkedin.com/yusuf-shahzad](https://www.linkedin.com/in/yusuf-shahzad-89aba0284/)
 * **Location:** Houston, TX
