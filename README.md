@@ -18,7 +18,8 @@ Enthusiastic AI student specializing in Natural Language Processing and Computer
 
 ### [ITAI-2373] Natural Language Processing
 Focuses on the interaction between computers and human languages. Key topics include text processing, sentiment analysis, and transformer models.
-[Featured Project](https://github.com/YusufShahz/ITAI2373-NewsBot-Final)
+
+[NewsBot Intelligence System 2.0](https://github.com/YusufShahz/ITAI2373-NewsBot-Final)
 
 ### [ITAI-1378] Computer Vision
 Explores how computers can gain high-level understanding from digital images or videos.
