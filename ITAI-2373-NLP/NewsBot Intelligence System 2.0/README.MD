@@ -1,0 +1,1 @@
+Link to NewsBot repo : [NewsBot Intelligence System 2.0](https://github.com/YusufShahz/ITAI2373-NewsBot-Final)

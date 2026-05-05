@@ -1,4 +1,4 @@
-# 🅿️ ParkVision — Parking Lot Occupancy Detector
+# 🅿️ [ParkVision — Parking Lot Occupancy Detector](https://github.com/YusufShahz/ITAI1378_Midterm_ParkVision) (Click to view seperate repo)
 
 > Real-time parking space detection using YOLOv8 and computer vision.  
 > **ITAI 1378 – Computer Vision & AI** · Houston Community College · Yusuf Shahzad
