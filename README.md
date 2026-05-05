@@ -20,9 +20,12 @@ Enthusiastic AI student specializing in Natural Language Processing and Computer
 Focuses on the interaction between computers and human languages. Key topics include text processing, sentiment analysis, and transformer models.
 
 [NewsBot Intelligence System 2.0](https://github.com/YusufShahz/ITAI2373-NewsBot-Final)
+[NLP Labs](https://github.com/YusufShahz/Yusuf-Shahzad-AI-Portfolio/tree/main/ITAI-2373-NLP/NLP%20labs)
 
 ### [ITAI-1378] Computer Vision
 Explores how computers can gain high-level understanding from digital images or videos.
+
+[ParkVision – Parking Lot Occupancy Detector](https://github.com/YusufShahz/ITAI1378_Midterm_ParkVision)
 
 ### [ITAI-2372] Artificial Intelligence Applications
 Practical application of AI theories to solve real-world problems in industry and manufacturing.
