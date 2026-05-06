@@ -84,6 +84,6 @@ An end-to-end NLP pipeline that processes, classifies, and extracts structured i
 ## Contact
 
 **Yusuf Shahzad**  
-✉️ your.email@example.com  
+✉️ Yusuf4565@gmail.com  
 🔗 [linkedin.com/in/yusuf-shahzad-89aba0284](https://www.linkedin.com/in/yusuf-shahzad-89aba0284/)  
 🐙 [github.com/YusufShahz](https://github.com/YusufShahz)
