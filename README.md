@@ -47,7 +47,7 @@ Real-time parking space detection using a fine-tuned YOLOv8s model on overhead c
 
 **Stack:** YOLOv8s · PyTorch 2.0 · OpenCV · Google Colab T4 GPU · PKLot Dataset (~12K images)
 
-📁 [View Project →](https://github.com/YusufShahz/ITAI1378_Midterm_ParkVision)
+📁 [View Course →](https://github.com/YusufShahz/ITAI1378_Midterm_ParkVision)
 
 ---
 
@@ -66,7 +66,7 @@ An end-to-end NLP pipeline that processes, classifies, and extracts structured i
 
 **Stack:** scikit-learn · spaCy · NLTK · pyLDAvis · langdetect · Google Colab
 
-📁 [View Project →](https://github.com/YusufShahz/ITAI2373-NewsBot-Final)
+📁 [View Course →](https://github.com/YusufShahz/ITAI2373-NewsBot-Final)
 
 ---
 
@@ -84,6 +84,6 @@ An end-to-end NLP pipeline that processes, classifies, and extracts structured i
 ## Contact
 
 **Yusuf Shahzad**  
-✉️ your.email@example.com  
+✉️ Yusuf4565@gmail.com  
 🔗 [linkedin.com/in/yusuf-shahzad-89aba0284](https://www.linkedin.com/in/yusuf-shahzad-89aba0284/)  
 🐙 [github.com/YusufShahz](https://github.com/YusufShahz)
